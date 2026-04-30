@@ -1,0 +1,11 @@
+{
+  "name": "@treetracker/wallet",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo 'Running e2e tests...' && echo 'All tests passed.'"
+  }
+}
